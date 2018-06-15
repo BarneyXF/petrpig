@@ -1,0 +1,19 @@
+{
+  "name": "neo4jrest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon Server.js"
+  },
+  "author": "Klyuchnikov.V",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "neo4j": "^2.0.0-RC2",
+    "neo4j-driver": "^1.5.0",
+    "nodemon": "^1.17.5",
+    "swagger-jsdoc": "^1.9.7"
+  }
+}

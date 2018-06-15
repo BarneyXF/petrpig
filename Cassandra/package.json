@@ -1,0 +1,15 @@
+{
+  "name": "cassandra",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "author": "Klyuchnikov.V",
+  "license": "ISC",
+  "dependencies": {
+    "express-cassandra": "^2.2.0",
+    "nodemon": "^1.17.5"
+  }
+}

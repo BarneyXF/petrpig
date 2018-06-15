@@ -1,0 +1,15 @@
+{
+  "name": "dummydatagenerator",
+  "version": "1.0.0",
+  "description": "Data generator for MongoDB, Neo4j and Cassandra databases.",
+  "main": "index.js",
+  "scripts": {
+    "test": "dev"
+  },
+  "author": "Klyuchnikov.V",
+  "license": "ISC",
+  "dependencies": {
+    "cassandra-driver": "^3.5.0",
+    "mongoose": "^5.1.3"
+  }
+}
